@@ -1,7 +1,6 @@
-### reddit.tube Video Link Extractor
- A **Python** script extracts the video links from [reddit.tube](https://www.reddit.tube "Reddit Tube") from any given subreddit page as long as it exists on the website.
+## [reddit.tube](https://www.reddit.tube "Reddit Tube") Video Link Extractor
+ A **Python** script that extracts the video links from [reddit.tube](https://www.reddit.tube "Reddit Tube") from any given subreddit page as long as it exists on the website.
 
-***
 
 ## Required modules
 **requests** and **BeautifulSoup** are needed to run this script.
